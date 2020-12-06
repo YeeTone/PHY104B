@@ -1,4 +1,4 @@
-# PHY104B
+# PHY104B 基础物理实验
 PHY104B 2020Spring Experiments of Fundamental Physics
 
 1.报告的作者为王奕童，11910104，是2020春季学期修学基础物理实验课程的学生，基础物理实验课程总评A+；
