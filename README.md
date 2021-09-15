@@ -41,3 +41,8 @@ PHY104B 2020Spring Experiments of Fundamental Physics
 第十五周：分光计  88/100    
 
 第十六周：氢氘光谱  99/100
+
+期末考试：固体杨氏模量测量  95/100
+
+## 总评成绩
+97/100 -> A+
